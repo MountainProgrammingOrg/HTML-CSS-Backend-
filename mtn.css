@@ -1,33 +1,38 @@
 
+#outerlayer{
+
+	height: 120px;
+	width: 1000px;
+	border: 5px solid blue;
+	border-radius: 5px;
+	display:block;
+	background-color:blue;
+	margin: -20px, 0, 0, 0;
+	padding 0px 0px 0px 0px;
+}
+
 div {
 			
 	height: 100px;
-	width: 640px;
-	border: 2px solid blue;
+	width: 80%;
+	border: 3px solid white;
 	border-radius: 5px;
-	background-color: blue;
-	display:inline-block;
-	margin:-20px 0px 0px -20px;
+	display:block;
+	background-color:blue;
+	margin:auto ;
+	padding 0px 0px 0px 0px;
 	
-	
-}
 
-
-#centered {
-	font-size:50px;
+	font-family:Impact;
 	color:white;
-	font-family:Impact, verdana;
 	text-align:center;
-	padding:0 0 2px 0;
+	font-size:70px;
 }
 
 
-#left {
-	font-size:50px;
-	color:white;
-	font-family:Impact, verdana;
-	text-align:left;
-	padding:0 0 0 10;
+img{
+
+	margin: 0 0 0 0;
+	display:inline-block;	
+
 }
-
-
