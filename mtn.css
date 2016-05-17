@@ -1,0 +1,33 @@
+
+div {
+			
+	height: 100px;
+	width: 640px;
+	border: 2px solid blue;
+	border-radius: 5px;
+	background-color: blue;
+	display:inline-block;
+	margin:-20px 0px 0px -20px;
+	
+	
+}
+
+
+#centered {
+	font-size:50px;
+	color:white;
+	font-family:Impact, verdana;
+	text-align:center;
+	padding:0 0 2px 0;
+}
+
+
+#left {
+	font-size:50px;
+	color:white;
+	font-family:Impact, verdana;
+	text-align:left;
+	padding:0 0 0 10;
+}
+
+
